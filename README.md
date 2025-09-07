@@ -1,4 +1,4 @@
-# Dual Conveyor Belt System with FreeRTOS on ESP32
+# Multitasking Dual Conveyor Belt and Rack System
 
 This project implements a **dual conveyor belt system** controlled by an **ESP32** using **FreeRTOS**.  
 It handles order sequences with **DC motors**, **servo actuators**, **proximity sensors**, and a **color sensor** for automatic sorting and rejection of defective products.  
