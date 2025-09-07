@@ -62,20 +62,10 @@ Main modules and tasks:
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Libraries required:
 
-### Prerequisites
-- Arduino IDE (with ESP32 board support installed)  
-- Libraries required:
-  - [`ESP32Servo`](https://github.com/madhephaestus/ESP32Servo)  
-  - [`Robojax_L298N_DC_motor`](https://github.com/robojax/Robojax-L298N-DC-motor)  
-
-### Uploading
-1. Clone or download this repository.  
-2. Open the `.ino` file in Arduino IDE.  
-3. Select **ESP32 board** from `Tools > Board`.  
-4. Connect ESP32 via USB and upload.  
-
+- [`ESP32Servo`](https://github.com/madhephaestus/ESP32Servo)  
+- [`Robojax_L298N_DC_motor`](https://github.com/robojax/Robojax-L298N-DC-motor)  
 ---
 
 ## 📊 Serial Input Format
